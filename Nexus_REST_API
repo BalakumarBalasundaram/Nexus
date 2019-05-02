@@ -1,0 +1,11 @@
+Nexus Rest 2 API
+http://localhost:8082/nexus/nexus-restlet1x-plugin/default/docs/path__artifact_maven_content.html
+
+https method for nexus 3 
+https://support.sonatype.com/hc/en-us/articles/115006744008-How-can-I-programmatically-upload-files-into-Nexus-3-
+
+Nexus 3 Rest API
+https://help.sonatype.com/repomanager3/rest-and-integration-api/components-api?_ga=2.29232255.2132644171.1556805583-232213153.1553249251#ComponentsAPI-NPM
+
+Sonatype Nexus Documentation
+https://help.sonatype.com/repomanager3/rest-and-integration-api/components-api?_ga=2.230103903.2132644171.1556805583-232213153.1553249251#ComponentsAPI-NPM
